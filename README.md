@@ -1,9 +1,5 @@
 ## This repository contains the code-generated data for the GAM paper.
 
-### Data download:
-Git clone this repository.
-Then please download the folder "SG_data" into your local repository using [onedrive](https://cf-my.sharepoint.com/:f:/g/personal/yangx66_cardiff_ac_uk/EnImervr_axMn31N927lYSkBz4NSBeEdNOrQzlrKVWCrxw?e=l5g2bF)
-
 ### Data structure:
 The dataset is organised first according to the number and type of hooks included in the workspace, 
 thus the folders named "2_hooks_C", "3_hooks_C+", etc. 
